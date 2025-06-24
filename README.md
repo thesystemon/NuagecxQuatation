@@ -69,7 +69,7 @@ We aim to perform a comprehensive vulnerability assessment and penetration test 
 
 ## ✅ **Page 4 – NuageCX | Web Application Testing Methodology**
 
-**Appendix B: Web Application Penetration Testing Methodology**
+**Appendix B: Engagement Approach**
 
 ---
 
@@ -258,8 +258,6 @@ We test if the application can be tricked into:
 
 
 ## ✅ **Page 4 – NuageCX | Web Services/API Penetration Testing Methodology**
-
-**Appendix C: API Security Testing Methodology**
 
 ---
 
@@ -552,8 +550,6 @@ This engagement helps your organization:
 
 ## ✅ **Page 6 – NuageCX | Cloud Security & Cloud-Based Web Application Testing Methodology**
 
-**Appendix D: Cloud & Web Application Security Testing**
-
 ---
 
 ### 🔐 **Cloud Account Testing Methodology**
@@ -731,8 +727,6 @@ We consider this the most valuable part of our service and ensure your technical
 
 ## ✅ **Page 7 – NuageCX | Mobile Application VAPT Methodology**
 
-**Appendix E: Mobile Application – Black Box / Grey Box Assessment**
-
 ---
 
 ### 📱 **Mobile Application Black Box / Grey Box Assessment**
@@ -834,8 +828,6 @@ NuageCX uses a mix of commercial and open-source tools based on the app’s comp
 
 
 ## ✅ **Page 8 – NuageCX | Source Code Review Methodology**
-
-**Appendix F: Secure Code Analysis**
 
 ---
 
@@ -960,8 +952,6 @@ Typical tools may include:
 
 ## ✅ **Page 9 – NuageCX | Social Engineering Assessment**
 
-**Appendix G: Human-Layer Security Testing**
-
 ---
 
 ### 🛡️ **Social Engineering Assessment**
@@ -1078,8 +1068,6 @@ After remediation and training are conducted, we perform a second round of tests
 ---
 
 ## ✅ **Page 10 – NuageCX | Security Awareness & Training**
-
-**Appendix H: Human-Centric Cybersecurity Enablement**
 
 ---
 
