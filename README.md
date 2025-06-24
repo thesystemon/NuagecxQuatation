@@ -958,4 +958,654 @@ Typical tools may include:
 
 ---
 
+## ✅ **Page 9 – NuageCX | Social Engineering Assessment**
+
+**Appendix G: Human-Layer Security Testing**
+
+---
+
+### 🛡️ **Social Engineering Assessment**
+
+Your most secure infrastructure can still be compromised if your people are misled. At **NuageCX**, our **Social Engineering Assessment** tests the resilience of your team against real-world manipulation tactics often used by attackers.
+
+We simulate **phishing, vishing, impersonation, and physical breach scenarios** to help identify vulnerabilities in your human-layer defense—allowing your organization to proactively train and strengthen its most critical asset: its people.
+
+---
+
+### ❓ **What is Social Engineering Assessment?**
+
+Social Engineering Assessment is a **controlled simulation of psychological attack vectors**, where ethical testers attempt to deceive employees, vendors, or contractors into performing unsafe actions.
+
+Our objective is not to blame users, but to:
+
+* Measure awareness
+* Identify policy blind spots
+* Strengthen human-based controls
+* Build long-term security culture
+
+---
+
+### 🚨 **What Do We Test?**
+
+Our attack simulations are **customized for your environment**—roles, departments, and typical behaviors. We evaluate employee behavior under the following targeted scenarios:
+
+* **Phishing Emails** – Fake but realistic emails designed to trigger unsafe clicks or credential submissions
+* **Vishing (Voice Phishing)** – Deceptive calls imitating trusted figures (e.g., IT support, finance)
+* **Pretexting & Impersonation** – Attempts to impersonate staff/vendors via email, chat, or in person
+* **Tailgating & Access Simulation** – Physical access attempts by unauthorized individuals
+* **USB Drop Testing** – Planted malicious USB drives to assess curiosity or endpoint security
+* **Credential Harvesting Pages** – Dummy login portals used to track susceptibility
+* **Simulated Breach Alerts** – Assessing response to staged internal data leaks or breach warnings
+
+---
+
+### 🔍 **Our Testing Process**
+
+We conduct Social Engineering Assessments with **ethics, consent, and impact control** in mind. Our methodology ensures realistic simulations while respecting organizational boundaries and employee dignity.
+
+---
+
+#### 1. **Define Scope**
+
+We collaborate to define:
+
+* Approved vectors and test scenarios
+* Target audience and departments
+* Rules of engagement and non-disruption policy
+* Key success indicators
+
+---
+
+#### 2. **Information Gathering**
+
+We perform **OSINT (Open Source Intelligence)** to collect:
+
+* Publicly available employee data
+* Email formats, phone systems, LinkedIn profiles
+* Company structure and known vendors
+
+This data is used to build personalized, believable scenarios.
+
+---
+
+#### 3. **Enumeration**
+
+We identify:
+
+* Internal contact patterns
+* Behavioral traits
+* Communication workflows
+* Exposure to social platforms and third-party breaches
+
+---
+
+#### 4. **Exploitation Simulation**
+
+We execute social engineering campaigns such as:
+
+* Email-based phishing attacks
+* Voice calls with impersonation
+* Live tailgating or ID testing (if in-scope)
+* Malicious USB planting (non-destructive)
+* Credential trap websites and social media baits
+
+Each action is logged, timed, and analyzed for effectiveness and impact.
+
+---
+
+#### 5. **Reporting & Collaboration**
+
+Our final report includes:
+
+* Engagement statistics (clicks, replies, downloads, submissions)
+* Timeline breakdown of incidents
+* Screenshots of responses or evidence
+* Identification of awareness and response gaps
+* Custom training recommendations
+
+We also offer **awareness workshops** or simulations to educate your team based on real results.
+
+---
+
+#### 6. **Retesting**
+
+After remediation and training are conducted, we perform a second round of tests to:
+
+* Measure improvement
+* Reinforce best practices
+* Demonstrate reduced human risk exposure
+
+---
+
+## ✅ **Page 10 – NuageCX | Security Awareness & Training**
+
+**Appendix H: Human-Centric Cybersecurity Enablement**
+
+---
+
+### 🛡️ **Security Awareness & Training**
+
+Cybersecurity starts with people. At **NuageCX**, our Security Awareness & Training program equips your employees with the knowledge, instincts, and habits needed to recognize, report, and prevent cyber threats effectively.
+
+Through **interactive, role-specific, and regulation-aligned sessions**, we help transform your workforce from passive risk points into proactive defenders of your digital infrastructure.
+
+---
+
+### ❓ **What is Security Awareness & Training?**
+
+Security Awareness & Training is a structured and continuous educational initiative designed to:
+
+* Instill security best practices
+* Promote safe behavior across roles
+* Reduce human error—the #1 cause of breaches
+
+Our program extends beyond standard classroom sessions. It integrates **real-world simulations**, **engaging content**, and **follow-up assessments** to build a lasting culture of security awareness across the organization.
+
+---
+
+### 🚨 **What Do We Cover?**
+
+Our training modules are tailored to your organization’s structure, regulatory needs, and threat landscape. Core topics include:
+
+* **Phishing Detection & Response** – Spotting fake emails, malicious links, and unexpected attachments
+* **Password Hygiene** – Creating strong, memorable, and secure passwords
+* **Social Engineering Defense** – Recognizing psychological manipulation tactics (phone, chat, email)
+* **Safe Browsing & Email Usage** – Responsible use of online services and internal communications
+* **Data Privacy & Protection** – Understanding how to handle personal and sensitive information
+* **Device Security** – Securing laptops, mobiles, and remote work devices
+* **Incident Reporting Protocols** – When and how to report suspicious behavior or cyber incidents
+* **Compliance Basics** – Simplified awareness of ISO 27001, GDPR, HIPAA, PCI-DSS, etc.
+
+---
+
+### 🔍 **Our Training Process**
+
+Our approach is grounded in **behavioral science, adult learning principles**, and real-world risk scenarios. Each phase is designed for high impact and knowledge retention:
+
+---
+
+#### 1. **Define Scope**
+
+We start by aligning the training curriculum with:
+
+* Your industry (e.g., finance, healthcare, IT)
+* Team roles and responsibilities
+* Regulatory or audit requirements
+
+---
+
+#### 2. **Information Gathering**
+
+We review:
+
+* Past security incidents
+* Internal risk assessments
+* Employee surveys and gap analyses
+
+This allows us to **customize content** and prioritize the most relevant topics.
+
+---
+
+#### 3. **Enumeration**
+
+We segment your workforce into learning groups such as:
+
+* Executive Leadership
+* Developers & Engineers
+* HR & Legal
+* Finance & Operations
+* General Staff
+
+Each group receives **role-specific training content** tailored to their risk exposure and responsibilities.
+
+---
+
+#### 4. **Exploitation Simulation**
+
+To reinforce learning, we launch realistic simulations such as:
+
+* Phishing email campaigns
+* Live social engineering drills
+* Secure behavior exercises
+* Threat scenario walkthroughs
+
+These simulations help evaluate real-time employee response and identify behavior trends.
+
+---
+
+#### 5. **Reporting & Collaboration**
+
+You’ll receive dynamic reporting dashboards and executive summaries featuring:
+
+* Participation rates
+* Simulation results
+* Awareness scoring
+* Risk metrics by department
+* Recommendations for improvement
+
+We also hold collaborative sessions with HR or compliance teams to build long-term security reinforcement plans.
+
+---
+
+#### 6. **Retesting**
+
+Learning doesn’t stop after one session. We offer:
+
+* Surprise quizzes
+* Follow-up phishing simulations
+* Refresh modules every quarter
+* Targeted remediation training for high-risk teams
+
+Our objective is to embed cybersecurity into daily culture—not just compliance.
+
+---
+
+
+## ✅ **Page 11 – NuageCX | Tools & Technologies Used**
+
+**Appendix C: VAPT Tools Used**
+
+---
+
+At **NuageCX**, we leverage industry-leading and community-trusted security testing tools—alongside rigorous manual techniques—to ensure comprehensive and accurate results. Our toolset is selected based on your technology stack, environment, and engagement type.
+
+> 🔍 **Manual Testing remains at the core** of our methodology. Tools enhance speed, but expert analysis drives precision.
+
+Below is a snapshot of key tools used in our 7 core service areas:
+
+---
+
+### 01. **Web Application Penetration Testing**
+
+* **Burp Suite Professional**
+* **OWASP ZAP**
+* **Nmap**
+* **Acunetix**
+* **Wapiti**
+* **NetSparker**
+* **DIRB**
+
+---
+
+### 02. **Network Penetration Testing**
+
+* **Nmap**
+* **Nessus**
+* **Netcat**
+* **OpenVAS**
+* **Hydra**
+* **Metasploit Framework**
+* **Wireshark**
+
+---
+
+### 03. **API Security Testing**
+
+* **Postman**
+* **SoapUI**
+* **Burp Suite API Scanner**
+* **Swagger Validator**
+* **Fiddler**
+* **Insomnia**
+* **JWT.io**
+
+---
+
+### 04. **Source Code Review**
+
+* **SonarQube**
+* **Semgrep**
+* **PMD**
+* **FindSecBugs**
+* **CodeQL**
+* **Checkmarx (on-demand)**
+* **Custom Regex scanners**
+
+---
+
+### 05. **Cloud Penetration Testing**
+
+* **Nessus**
+* **AWS ScoutSuite**
+* **Pacu**
+* **CloudSploit**
+* **GCPBucketBrute**
+* **AzureHound**
+* **Lynis**
+
+---
+
+### 06. **Social Engineering Assessment**
+
+* **GoPhish**
+* **SET (Social Engineering Toolkit)**
+* **Caller ID Spoofing Simulators**
+* **USB Drop Scripts**
+* **Custom Credential Harvesters**
+* **Phishing Page Generators**
+* **Email Spoofing Frameworks**
+
+---
+
+### 07. **Security Awareness & Training**
+
+* **Customized LMS (Learning Management System)**
+* **Phishing Simulation Platforms**
+* **NuageCX Awareness Dashboards**
+* **Interactive Video Modules**
+* **Surprise Drill Engines**
+* **SCORM-compliant Learning Paths**
+
+---
+
+
+## ✅ **Page 13 – NuageCX | Company Overview**
+
+**Appendix E: About NuageCX**
+
+---
+
+### 🛡️ **NuageCX – Your Trusted Cybersecurity & Zoho Technology Partner**
+
+At **NuageCX**, we don’t just build digital ecosystems—we secure them. As a trusted provider of **offensive security services** and **Zoho-based business solutions**, we specialize in protecting organizations from today’s most advanced threats while enabling scalable, intelligent operations.
+
+Our unique strength lies in **integrating enterprise-grade security** with **smart automation**, allowing clients to grow confidently without compromising on resilience or compliance.
+
+---
+
+### 🚀 **What Sets Us Apart**
+
+* 🔐 **Security-First Engineering**: Every line of code, every app, and every integration is hardened against cyber threats.
+* 💡 **Tech-Driven Approach**: We blend modern cloud, CRM, and security technologies into one seamless strategy.
+* 🧠 **Human-Centric Security**: We don't just test systems—we train people.
+* ⚙️ **Secure Zoho Deployments**: CRM, HR, Finance, and Apps—implemented with zero-trust principles.
+
+Whether you’re a growing SaaS startup or a regulated enterprise, **NuageCX delivers offensive cybersecurity services with real-world value**.
+
+---
+
+### 🔐 **Core Cybersecurity Services**
+
+Our cybersecurity division is operated by certified ethical hackers, cloud security engineers, and red team specialists who simulate real adversaries to uncover real risk.
+
+Our offerings include:
+
+* **Web, Mobile & API Penetration Testing** (OWASP Top 10, Business Logic Flaws)
+* **Network & Cloud Infrastructure Testing** (AWS/Azure/GCP Misconfigurations, IAM Bypass)
+* **Secure Code Reviews** (Java, PHP, Python, React, Node.js & more)
+* **Social Engineering Simulations** (Phishing, Vishing, USB Drop)
+* **Security Awareness Programs** (Live Training, Quizzes, Dashboards)
+* **Cloud Security Hardening** (Pacu, ScoutSuite, S3 Bucket Analysis, PrivEsc)
+* **Compliance Readiness** (ISO 27001, GDPR, HIPAA, PCI-DSS)
+
+Every engagement is tailored, manual-first, and delivered with **impact-focused reporting** and **executive advisory**.
+
+---
+
+### ⚙️ **Zoho + Security, Done Right**
+
+As a certified **Zoho Implementation & Security Partner**, we secure your automation workflows, data flows, and user behavior across Zoho ecosystem apps:
+
+* **CRM** – Secure lead pipelines with role-based access and field-level encryption
+* **Creator** – Build custom apps with access controls and data privacy
+* **People** – Deploy HR workflows with identity governance
+* **Books & Projects** – Harden sensitive financial and operational systems
+* **Security Dashboards** – Visibility into threats, access, and anomalies
+
+We combine **CRM excellence with cybersecurity depth**—making us one of India’s few dual-specialty firms in both domains.
+
+---
+
+### 📊 **NuageCX by the Numbers**
+
+* 💼 200+ Clients across BFSI, SaaS, Healthcare, Legal, and Manufacturing
+* 🔍 1,000+ Vulnerabilities identified and patched in the last 12 months
+* 🔐 120+ Secure Zoho implementations
+* 🎯 97% Client Retention
+* 🌍 ISO 27001 and GDPR-aligned methodology
+* 🧑‍💻 In-house Red Team & Threat Modeling Experts
+
+---
+
+### 🏆 **Recognition & Leadership**
+
+* Recognized as a **“Top Emerging Cybersecurity Provider – 2024”** by CyberWatch
+* Named among **India’s Top 10 Secure CRM Solution Providers**
+* Strategic alliances with Zoho, AWS, and top cloud security labs
+* Speaker engagements at **BSides, NullCon, and InfoSecSummit India**
+
+---
+
+### 🔚 **Your Security. Our Mission.**
+
+When you work with **NuageCX**, you’re choosing a partner that believes **security is not a feature—it’s a foundation.** We don't just scan and report—we simulate, exploit, educate, and harden.
+
+> Whether you’re preparing for a compliance audit, recovering from an incident, or building secure digital infrastructure from scratch—**NuageCX is the team behind your resilience.**
+
+---
+
+
+## ✅ **Page 14 – NuageCX | Our Clientele**
+
+**Appendix F: Trusted by Leading Organizations**
+
+---
+
+At **NuageCX**, we’ve partnered with businesses across industries to secure digital ecosystems and streamline operational efficiency. From startups scaling their infrastructure to enterprises modernizing their security posture, our clients trust us for both **deep technical expertise** and **business-aligned delivery**.
+
+Here’s a look at the industries we serve and the types of clients we’ve proudly worked with:
+
+---
+
+### 🏦 **Banking & Financial Services**
+
+* Regional Cooperative Banks (Cyber Audit & Awareness Training)
+* Microfinance Institutions (Zoho CRM + Compliance Hardening)
+* FinTech Payment Platforms (API Security & VAPT)
+
+---
+
+### 🏥 **Healthcare & Life Sciences**
+
+* Multi-city Diagnostic Chains (Cloud VAPT + Data Privacy)
+* Telemedicine Startups (Web App Penetration Testing)
+* Healthcare CRM Deployments (Zoho Books + HIPAA Security Controls)
+
+---
+
+### 🧑‍💻 **Technology & SaaS**
+
+* B2B SaaS Platforms (Web/API/Mobile Pen Testing)
+* Cloud-Native Startups (AWS Security & IAM Review)
+* Developer-Focused Tools (Secure Code Review Services)
+
+---
+
+### 🏛️ **Legal & Compliance**
+
+* Law & Corporate Firms (Social Engineering Simulation + Awareness Programs)
+* Compliance Tech Vendors (CRM Deployment + Access Control Policies)
+
+---
+
+### 🏗️ **Manufacturing & Industrial Tech**
+
+* Industrial IoT Integrators (Network Infrastructure Assessment)
+* Process Automation Vendors (On-prem + Cloud VAPT)
+
+---
+
+### 🧾 **Consulting, HR & Professional Services**
+
+* Staffing Agencies (Zoho CRM + Data Protection Modules)
+* CX Transformation Firms (CRM Implementation with Secure Integrations)
+
+---
+
+### 🎓 **Education & EdTech**
+
+* EdTech SaaS Providers (Mobile Application Security)
+* Universities and Institutes (Cybersecurity Training & Audits)
+
+---
+
+### 📊 **Select Engagement Highlights**
+
+| Sector            | Engagement Type                       | Scope                         |
+| ----------------- | ------------------------------------- | ----------------------------- |
+| FinTech Platform  | Web & API Penetration Testing         | 40+ Endpoints, 3 Environments |
+| HR Services Firm  | Zoho CRM + Secure Workflow Automation | 7 Departments Integrated      |
+| Healthcare Group  | Cloud Security Audit (HIPAA)          | AWS + 3rd Party SaaS Infra    |
+| Law Firm          | Social Engineering Simulation         | Phishing & Vishing Campaigns  |
+| Manufacturing Co. | Network VAPT & Compliance Checklist   | On-prem & VPN Environment     |
+
+---
+
+> ✅ **We don’t just deliver reports—we deliver resilience.**
+
+Each client engagement is built on trust, technical precision, and long-term value. Whether it’s a red-team simulation, source code review, or a secure CRM rollout—**NuageCX is the partner organizations rely on for mission-critical projects.**
+
+---
+
+
+## ✅ **Page 15 – NuageCX | Delivery Timelines**
+
+**Appendix G: Timelines**
+
+---
+
+### 📋 Detailed Project Timeline
+
+| **Assets to be Tested/Assessed** | **Testing Duration** | **Re-Testing Duration** |
+| -------------------------------- | -------------------- | ----------------------- |
+| IP-Based Infrastructure          | 1 Week               | 0.5 Week                |
+| APIs (Internal & External)       | 1 Week               | 0.5 Week                |
+
+---
+
+### ⏱ Overall Timelines Overview (IP + API)
+
+| **Sr. No.** | **Milestones** | **Timelines** | **Activities**          |
+| ----------- | -------------- | ------------- | ----------------------- |
+| 1           | Milestone 1    | Day 0         | Project Kickoff         |
+| 2           | Milestone 2    | Week 2        | Security Testing Phase  |
+| 3           | Milestone 3    | Week 3        | Re-Testing & Validation |
+
+---
+
+### 📝 Notes:
+
+1. **Re-Testing** will be conducted once NuageCX receives confirmation that the recommended fixes have been implemented by the client.
+
+2. **Re-Testing should be scheduled within 60 days** from the date of the initial report submission.
+
+3. In case the client chooses not to opt for re-testing, the **full engagement fee remains applicable**.
+
+4. **Day 0** marks the kickoff date, i.e., the day the project is approved and the initial payment is processed.
+
+5. Timelines are subject to **resource availability**, client-side access, and responsiveness to information requests.
+
+6. **Extended testing scope** or additional environments may impact the overall timeline and would be mutually agreed upon.
+
+---
+
+✅ At NuageCX, we prioritize transparent communication, timely execution, and efficient collaboration to ensure every security engagement is delivered with precision and professionalism.
+
+---
+
+
+
+## ✅ **Page 16 – NuageCX | Commercial Proposal**
+
+**Appendix H: Quotation**
+
+| **Service Inclusions**                                    | **Availability** |
+| --------------------------------------------------------- | ---------------- |
+| Weekly coordination call with NuageCX Security Team       | ✅ Included       |
+| Access to testing dashboard and progress tracker          | ✅ Included       |
+| Detailed Executive Summary & Technical Report             | ✅ Included       |
+| Validity Certificate of Security Audit                    | ✅ Included       |
+| Manual Penetration Testing (Grey/Black Box as applicable) | ✅ Included       |
+| Automation-assisted scanning (where required)             | ✅ Included       |
+| Vulnerability Remediation Recommendations                 | ✅ Included       |
+| Post-Report Clarification & Consulting Session            | ✅ Included       |
+| Re-testing (Up to 2 rounds within 60 days)                | ✅ Included       |
+| Weekly Cyber Hygiene Newsletter (3 Months)                | ✅ Included       |
+| NuageCX SecureCert (Valid for 6 Months from report date)  | ✅ Included       |
+
+---
+
+### 💰 **Pricing Breakdown – One Time Engagement**
+
+| **Service Category**            | **Cost**        |
+| ------------------------------- | --------------- |
+| IP-Based Security Testing       | ₹ 48,000/-      |
+| API Security Testing            | ₹ 48,000/-      |
+| NuageCX Shield – Risk Dashboard | ✅ Complimentary |
+
+---
+
+### 🧾 **Effective Total**
+
+**Pricing for One Time Engagement**: **₹ 96,000/-**
+
+---
+
+### 📌 Notes:
+
+* Re-testing included up to 2 rounds (if completed within 60 days of initial report).
+* NuageCX Shield provides clients with a centralized vulnerability dashboard, remediation tracker, and advisory tips.
+* Additional scopes (e.g., mobile app, code review, cloud infra) are priced separately based on complexity.
+
+---
+
+
+## ✅ **Page 17 – NuageCX | Commercial Terms & Submission**
+
+**Appendix H (Contd.): Terms, Payment & Submission**
+
+---
+
+### 📌 **Notes**
+
+1. **Taxes:** All applicable taxes shall be charged additionally as per prevailing government rates.
+
+2. **Travel, Boarding & Lodging:** If required to be arranged by NuageCX for on-site activities, actual expenses will be invoiced separately over and above the quoted price.
+
+3. **Emergency Support:** Deployment of an Emergency Response Team (ERT) shall be available on-demand and billed separately based on urgency and scope.
+
+4. **Commercial Terms:**
+
+   * **50% Advance Payment** at the time of Project Kickoff
+   * **50% Final Payment** before submission of the first round of testing report
+
+---
+
+### 📄 **Purchase Order (PO) To Be Raised In Favor Of:**
+
+**NuageCX Technologies Pvt. Ltd.**
+Office 302, Building A, Nucleus IT Park
+Hinjawadi Phase II, Pune – 411057, Maharashtra, India
+GSTIN: 27ABCDE1234F1Z9
+
+---
+
+### 📬 **Submitted To:**
+
+\[Client Organization Name]
+\[Client Contact Person]
+\[Client Address or Department]
+
+---
+
+### ✍️ **Submitted By:**
+
+**\[Your Name]**
+Chief Technology Officer (CTO)
+**NuageCX Technologies Pvt. Ltd.**
+📧 [cto@nuagecx.com](mailto:cto@nuagecx.com) | 🌐 [www.nuagecx.com](http://www.nuagecx.com)
+📞 +91 98765 43210
+
+---
+
 
